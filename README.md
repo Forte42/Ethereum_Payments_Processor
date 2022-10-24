@@ -24,7 +24,7 @@ Open your command line and navigate to this repository. Type "streamlit run fint
 
 ![streamlit_screenshot](Images/app_screenshot.png)
 
-You can use the sidebar to select a hypothetical fintech professional, the number of hours you'd like to hire them for, and then send a transaction to their Eth address.
+You can use the sidebar to select a hypothetical fintech professional, the number of hours you'd like to hire them for, and then send a transaction to their Eth address. You should be able to see the amount of eth in your wallet going down.
 
 ---
 
